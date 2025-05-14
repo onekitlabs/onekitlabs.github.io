@@ -16,6 +16,10 @@
     
     .logo-container {
       margin-bottom: 20px;
+      background: url(background.jpg);
+      background-size: cover !important;
+      background-repeat: no-repeat !important;
+      background-position: center !important;
     }
     
     .logo-text {
